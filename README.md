@@ -8,6 +8,9 @@ This repo provides an up-to-date list of progress made in Big Model, which inclu
  - The Effects of Regularization and Data Augmentation are Class Dependent. [[PDF](https://arxiv.org/pdf/2204.03632.pdf)] [[Covered Media](https://www.datalearner.com/blog/1051649688738359)] `arXiv` `2022`
  - Designing Effective Sparse Expert Models. [[PDF](https://arxiv.org/pdf/2202.08906.pdf)] [[Covered Media](https://www.toutiao.com/article/7073025419217338894
 )] `arXiv` `2022`
+ - Hardware Approximate Techniques for Deep Neural Network Accelerators: A Survey. [[PDF](https://arxiv.org/pdf/2203.08737v1.pdf)] [[Covered Media](https://www.toutiao.com/article/7076617388380193292)]`ACM Computing Surveys (CSUR)` `2022`
+ - Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.pdf)] [[Code](https://github.com/yikaiw/SNN)] `ICCV` `2021`
+ 
 
 
 
