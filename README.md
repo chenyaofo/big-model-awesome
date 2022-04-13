@@ -8,8 +8,21 @@ This repo provides an up-to-date list of progress made in Big Model, which inclu
  - The Effects of Regularization and Data Augmentation are Class Dependent. [[PDF](https://arxiv.org/pdf/2204.03632.pdf)] [[Covered Media](https://www.datalearner.com/blog/1051649688738359)] `arXiv` `2022`
  - Designing Effective Sparse Expert Models. [[PDF](https://arxiv.org/pdf/2202.08906.pdf)] [[Covered Media](https://www.toutiao.com/article/7073025419217338894
 )] `arXiv` `2022`
- - Hardware Approximate Techniques for Deep Neural Network Accelerators: A Survey. [[PDF](https://arxiv.org/pdf/2203.08737v1.pdf)] [[Covered Media](https://www.toutiao.com/article/7076617388380193292)]`ACM Computing Surveys (CSUR)` `2022`
+ - Hardware Approximate Techniques for Deep Neural Network Accelerators: A Survey. [[PDF](https://arxiv.org/pdf/2203.08737v1.pdf)] [[Covered Media](https://www.toutiao.com/article/7076617388380193292)] `ACM Computing Surveys (CSUR)` `2022`
  - Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.pdf)] [[Code](https://github.com/yikaiw/SNN)] `ICCV` `2021`
+ - Training Compute-Optimal Large Language Models. [[PDF](https://arxiv.org/pdf/2203.15556.pdf)] [[Covered Media (https://www.lesswrong.com/posts/midXmMb2Xg37F2Kgn/new-scaling-laws-for-large-language-models)] `arXiv` `2022` 
+ - PaLM: Scaling Language Modeling with Pathways. [[PDF](https://www.datalearner.com/resources/papers/PaLM-paper.pdf)] [[Covered Media](https://www.sohu.com/a/535823925_629135)] `arXiv` `2022`
+ - GAIA: A Transfer Learning System of Object Detection that Fits Your Needs. [[PDF](https://arxiv.org/pdf/2106.11346.pdf)] [[Code](https://github.com/GAIA-vision
+)] [[Covered Media](https://mp.weixin.qq.com/s/hz-e5aE2o3SU3btGZjVAyw)] `CVPR` `2021`
+ - Scaling Vision with Sparse Mixture of Experts. [[PDF](https://arxiv.org/pdf/2106.05974.pdf)] [[Code](https://github.com/google-research/vmoe)] [[Covered Media](https://mp.weixin.qq.com/s/_EAmHwqNYQmoM4AS-Lqmxg)] `NeurIPS` `2021`
+ - Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models. [[PDF](https://arxiv.org/pdf/2203.06904.pdf)] [[Code](https://github.com/thunlp/OpenDelta)] [[Covered Media](https://mp.weixin.qq.com/s/1F24Px2d86LZ9MIdP-m_sA)] `arXiv` `2022`
+ - Tensor Programs V:Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer. [[PDF](https://arxiv.org/pdf/2203.03466v1.pdf)] [[Code](https://github.com/microsoft/mup)] [[Covered Media](https://mp.weixin.qq.com/s/CyR_0vynOOzS8v6NeYSptg)] `NeurIPS` `2021`
+ - MetaFormer is Actually What You Need for Vision. [[PDF](https://arxiv.org/pdf/2111.11418.pdf)] [[Code](https://github.com/sail-sg/poolformer)] [[Covered Media](https://zhuanlan.zhihu.com/p/437210116)] `arXiv` `2021`
+ - The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training. [[PDF](https://openreview.net/forum?id=VBZJ_3tz-t)] [[Code](https://github.com/VITA-Group/Random_Pruning)] [[Covered Media](https://www.toutiao.com/article/7085150891724259871)] `ICLR` `2022`
+ - TokenLearner: What Can 8 Learned Tokens Do for Images and Videos? [[PDF](https://arxiv.org/pdf/2106.11297.pdf)] [[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)] [[Covered Media](https://www.toutiao.com/article/7041005282473869837)] `arXiv` `2022`
+
+
+ 
  
 
 
