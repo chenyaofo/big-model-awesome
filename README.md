@@ -4,12 +4,12 @@ This repo provides an up-to-date list of progress made in Big Model, which inclu
 
 ## Papers
 
- - ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond [[PDF](https://arxiv.org/pdf/2202.10108.pdf)] [[Code](https://github.com/Annbless/ViTAE)] `arXiv` `2022`
+ - ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond [[PDF](https://arxiv.org/pdf/2202.10108.pdf)] [[Code](https://github.com/Annbless/ViTAE)] [[Covered Media](https://mp.weixin.qq.com/s/hQVv0UTT1C6M0r3HHQx1HQ)] `arXiv` `2022`
 
 
 ## Frameworks
 
- - [OpenGVLab开源平台](https://opengvlab.shlab.org.cn/):上海人工智能实验室联合商汤科技、香港中文大学、上海交通大学共同发布通用视觉开源平台OpenGVLab，面向学术界和产业界开放其超高效预训练模型，和千万级精标注、十万级标签量的公开数据集，为全球开发者提升各类下游视觉任务模型训练提供重要支持。... [更多讨论](https://www.toutiao.com/article/7068489165679591949)
+ - [OpenGVLab开源平台](https://opengvlab.shlab.org.cn/):上海人工智能实验室联合商汤科技、香港中文大学、上海交通大学共同发布通用视觉开源平台OpenGVLab，面向学术界和产业界开放其超高效预训练模型，和千万级精标注、十万级标签量的公开数据集，为全球开发者提升各类下游视觉任务模型训练提供重要支持。... [[更多讨论](https://www.toutiao.com/article/7068489165679591949)]
 
 ## Discussions
 
