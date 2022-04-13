@@ -10,7 +10,7 @@ This repo provides an up-to-date list of progress made in Big Model, which inclu
 )] `arXiv` `2022`
  - Hardware Approximate Techniques for Deep Neural Network Accelerators: A Survey. [[PDF](https://arxiv.org/pdf/2203.08737v1.pdf)] [[Covered Media](https://www.toutiao.com/article/7076617388380193292)] `ACM Computing Surveys (CSUR)` `2022`
  - Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.pdf)] [[Code](https://github.com/yikaiw/SNN)] `ICCV` `2021`
- - Training Compute-Optimal Large Language Models. [[PDF](https://arxiv.org/pdf/2203.15556.pdf)] [[Covered Media (https://www.lesswrong.com/posts/midXmMb2Xg37F2Kgn/new-scaling-laws-for-large-language-models)] `arXiv` `2022` 
+ - Training Compute-Optimal Large Language Models. [[PDF](https://arxiv.org/pdf/2203.15556.pdf)] [[Covered Media](https://www.lesswrong.com/posts/midXmMb2Xg37F2Kgn/new-scaling-laws-for-large-language-models)] `arXiv` `2022` 
  - PaLM: Scaling Language Modeling with Pathways. [[PDF](https://www.datalearner.com/resources/papers/PaLM-paper.pdf)] [[Covered Media](https://www.sohu.com/a/535823925_629135)] `arXiv` `2022`
  - GAIA: A Transfer Learning System of Object Detection that Fits Your Needs. [[PDF](https://arxiv.org/pdf/2106.11346.pdf)] [[Code](https://github.com/GAIA-vision
 )] [[Covered Media](https://mp.weixin.qq.com/s/hz-e5aE2o3SU3btGZjVAyw)] `CVPR` `2021`
