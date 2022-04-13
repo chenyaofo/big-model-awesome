@@ -6,6 +6,9 @@ This repo provides an up-to-date list of progress made in Big Model, which inclu
 
  - ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond. [[PDF](https://arxiv.org/pdf/2202.10108.pdf)] [[Code](https://github.com/Annbless/ViTAE)] [[Covered Media](https://mp.weixin.qq.com/s/hQVv0UTT1C6M0r3HHQx1HQ)] `arXiv` `2022`
  - The Effects of Regularization and Data Augmentation are Class Dependent. [[PDF](https://arxiv.org/pdf/2204.03632.pdf)] [[Covered Media](https://www.datalearner.com/blog/1051649688738359)] `arXiv` `2022`
+ - Designing Effective Sparse Expert Models. [[PDF](https://arxiv.org/pdf/2202.08906.pdf)] [[Covered Media](https://www.toutiao.com/article/7073025419217338894
+)] `arXiv` `2022`
+
 
 
 
