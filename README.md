@@ -31,11 +31,9 @@ This repo provides an up-to-date list of progress made in Big Model, which inclu
 ## Frameworks
 
  - [OpenGVLab开源平台](https://opengvlab.shlab.org.cn/):上海人工智能实验室联合商汤科技、香港中文大学、上海交通大学共同发布通用视觉开源平台OpenGVLab，面向学术界和产业界开放其超高效预训练模型，和千万级精标注、十万级标签量的公开数据集，为全球开发者提升各类下游视觉任务模型训练提供重要支持。... [[更多讨论](https://www.toutiao.com/article/7068489165679591949)]
- - [欢聚时代AI跨平台推理框架VNN](https://github.com/joyycom/VNN):欢聚集团自研的深度学习前向推理框架VNN，具有高性能、低功耗、多平台、轻量级的特性，可用于移动端、PC端以及服务端神经网络模型的部署，并在实际业务产品中加以打磨优化。目前VNN框架已经能很好的支持直播、短视频等应用场景。... [[更多讨论]
-（https://www.toutiao.com/article/7042648326642090535）]
- - [字节跳动大模型训练框架 veGiantModel](https://github.com/volcengine/veGiantModel):字节跳动 AML 团队内部开发了火山引擎大模型训练框架 veGiantModel，比 Megatron 和 DeepSpeed 更快。... [[更多讨论]
-（https://mp.weixin.qq.com/s/N6jZYh8YLGzjo-gCqtz6XQ）]
- - [中科院“紫东太初”三模态大模型](https://gitee.com/zidongtaichu/multi-modal-models):自动化所以全栈国产化基础软硬件昇腾AI平台为基础，依托武汉人工智能计算中心，自动化所研发了面向超大规模的高效分布式训练框架，在图、文、音三个基础模型上加入跨模态编码和解码网络，基于昇思MindSpore框架，打造了业内首个千亿参数三模态大模型“紫东太初”。... [[更多讨论]（https://blog.csdn.net/fengdu78/article/details/12069538）]
+ - [欢聚时代AI跨平台推理框架VNN](https://github.com/joyycom/VNN):欢聚集团自研的深度学习前向推理框架VNN，具有高性能、低功耗、多平台、轻量级的特性，可用于移动端、PC端以及服务端神经网络模型的部署，并在实际业务产品中加以打磨优化。目前VNN框架已经能很好的支持直播、短视频等应用场景。... [[更多讨论](https://www.toutiao.com/article/7042648326642090535)]
+ - [字节跳动大模型训练框架 veGiantModel](https://github.com/volcengine/veGiantModel):字节跳动 AML 团队内部开发了火山引擎大模型训练框架 veGiantModel，比 Megatron 和 DeepSpeed 更快。... [[更多讨论] (https://mp.weixin.qq.com/s/N6jZYh8YLGzjo-gCqtz6XQ)]
+ - [中科院“紫东太初”三模态大模型](https://gitee.com/zidongtaichu/multi-modal-models):自动化所以全栈国产化基础软硬件昇腾AI平台为基础，依托武汉人工智能计算中心，自动化所研发了面向超大规模的高效分布式训练框架，在图、文、音三个基础模型上加入跨模态编码和解码网络，基于昇思MindSpore框架，打造了业内首个千亿参数三模态大模型“紫东太初”。... [[更多讨论](https://blog.csdn.net/fengdu78/article/details/12069538)]
 
 ## Discussions
 
