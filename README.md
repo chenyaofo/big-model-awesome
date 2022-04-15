@@ -20,12 +20,7 @@ This repo provides an up-to-date list of progress made in Big Model, which inclu
  - MetaFormer is Actually What You Need for Vision. [[PDF](https://arxiv.org/pdf/2111.11418.pdf)] [[Code](https://github.com/sail-sg/poolformer)] [[Covered Media](https://zhuanlan.zhihu.com/p/437210116)] `arXiv` `2021`
  - The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training. [[PDF](https://openreview.net/forum?id=VBZJ_3tz-t)] [[Code](https://github.com/VITA-Group/Random_Pruning)] [[Covered Media](https://www.toutiao.com/article/7085150891724259871)] `ICLR` `2022`
  - TokenLearner: What Can 8 Learned Tokens Do for Images and Videos? [[PDF](https://arxiv.org/pdf/2106.11297.pdf)] [[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)] [[Covered Media](https://www.toutiao.com/article/7041005282473869837)] `NeurIPS` `2021`
-
-
- 
- 
-
-
+ - Decoupled Knowledge Distillation [[PDF](https://arxiv.org/pdf/2203.08679.pdf)] [[Code](https://github.com/megvii-research/mdistiller)] [[Covered Media](https://www.toutiao.com/article/7086633860603200037)] `arXiv` `2022`
 
 
 ## Frameworks
